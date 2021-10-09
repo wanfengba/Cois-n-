@@ -62,7 +62,7 @@ $this->need('header.php');?>
                         <h5 class="author_title"><?php $this->author(); ?> 
                         </h5>
                         <div class="author_bio">
-                           <p>说点什么</p>
+                           <p><?php $this->options->description() ?></p>
                         </div>
                         <div class="themelazer-author-social-links">
                            <div class="themelazer-social-links-items">
