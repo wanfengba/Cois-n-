@@ -14,7 +14,7 @@
 看过很多作者都是把主题的功能或者其他说的很好，却没有把主题的样式图附上。
 下载用上后才会发现好像不适合自己。麻烦的又得换（自知之明的附上样式图）
 
-<img src="https://cdn.jsdelivr.net/gh/wanfengba/tuping/usr/uploads/2021/10/3642454868.png"><img src="https://cdn.jsdelivr.net/gh/wanfengba/tuping/usr/uploads/2021/10/1427335611.png">
+<img src="https://cdn.jsdelivr.net/gh/wanfengba/tuping/usr/uploads/2021/10/3642454868.png">
 
 # 主题信息
 主题未添加灯箱，如果需要可以上百度搜索一下（typecho灯箱），会教的你明明白白。
